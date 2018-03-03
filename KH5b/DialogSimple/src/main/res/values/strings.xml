@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DialogSimple</string>
+    <string-array name="array_colors">
+        <item>red</item>
+        <item>blue</item>
+        <item>green</item>
+        <item>black</item>
+    </string-array>
+
+</resources>
